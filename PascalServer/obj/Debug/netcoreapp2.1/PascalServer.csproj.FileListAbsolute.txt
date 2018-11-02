@@ -1,0 +1,14 @@
+c:\users\apodlaw\source\repos\PascalServer\PascalServer\bin\Debug\netcoreapp2.1\PascalServer.deps.json
+c:\users\apodlaw\source\repos\PascalServer\PascalServer\bin\Debug\netcoreapp2.1\PascalServer.runtimeconfig.json
+c:\users\apodlaw\source\repos\PascalServer\PascalServer\bin\Debug\netcoreapp2.1\PascalServer.runtimeconfig.dev.json
+c:\users\apodlaw\source\repos\PascalServer\PascalServer\bin\Debug\netcoreapp2.1\PascalServer.dll
+c:\users\apodlaw\source\repos\PascalServer\PascalServer\bin\Debug\netcoreapp2.1\PascalServer.pdb
+c:\users\apodlaw\source\repos\PascalServer\PascalServer\obj\Debug\netcoreapp2.1\PascalServer.csprojAssemblyReference.cache
+c:\users\apodlaw\source\repos\PascalServer\PascalServer\obj\Debug\netcoreapp2.1\PascalServer.csproj.CoreCompileInputs.cache
+c:\users\apodlaw\source\repos\PascalServer\PascalServer\obj\Debug\netcoreapp2.1\PascalServer.RazorAssemblyInfo.cache
+c:\users\apodlaw\source\repos\PascalServer\PascalServer\obj\Debug\netcoreapp2.1\PascalServer.RazorAssemblyInfo.cs
+c:\users\apodlaw\source\repos\PascalServer\PascalServer\obj\Debug\netcoreapp2.1\PascalServer.AssemblyInfoInputs.cache
+c:\users\apodlaw\source\repos\PascalServer\PascalServer\obj\Debug\netcoreapp2.1\PascalServer.AssemblyInfo.cs
+c:\users\apodlaw\source\repos\PascalServer\PascalServer\obj\Debug\netcoreapp2.1\PascalServer.RazorTargetAssemblyInfo.cache
+c:\users\apodlaw\source\repos\PascalServer\PascalServer\obj\Debug\netcoreapp2.1\PascalServer.dll
+c:\users\apodlaw\source\repos\PascalServer\PascalServer\obj\Debug\netcoreapp2.1\PascalServer.pdb
