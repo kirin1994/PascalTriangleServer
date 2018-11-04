@@ -11,3 +11,4 @@ c:\users\apodlaw\source\repos\PascalServer\PascalServer\obj\Debug\netcoreapp2.1\
 c:\users\apodlaw\source\repos\PascalServer\PascalServer\obj\Debug\netcoreapp2.1\PascalServer.RazorTargetAssemblyInfo.cache
 c:\users\apodlaw\source\repos\PascalServer\PascalServer\obj\Debug\netcoreapp2.1\PascalServer.dll
 c:\users\apodlaw\source\repos\PascalServer\PascalServer\obj\Debug\netcoreapp2.1\PascalServer.pdb
+C:\Users\apodlaw\source\repos\PascalServer\PascalServer\obj\Debug\netcoreapp2.1\PascalServer.csprojAssemblyReference.cache

@@ -17,13 +17,13 @@ namespace PascalServer.Models
 
         private void BuildTriangle(double[,] pascalTriangleTable, int tableLength, double modulo = 0)
         {
-            for (int i = 0; i < tableLength; i++)
+            for (int columnNumber = 0; columnNumber < tableLength; columnNumber++)
             {
                 var row = new PascalRow();
-                for (int j = 0; j < tableLength; j++)
+                for (int rowNumber = 0; rowNumber < tableLength; rowNumber++)
                 {
-                    if(j <= i)
-                    row.AddNumberToRow(pascalTriangleTable[i, j], modulo);
+                    if(rowNumber <= columnNumber)
+                    row.AddNumberToRow(pascalTriangleTable[columnNumber, rowNumber], modulo);
                 }
 
                 TriangleRows.Add(row);
