@@ -7,7 +7,7 @@ namespace PascalServer.Services
 {
     public class PascalService
     {
-        public static double[,] CalculatePascalTriangle(int numberOfIterations)
+        public static double[,] CalculatePascalTriangle(int numberOfIterations, double modulo)
         {
             var iterationNumber = numberOfIterations;
             double[,] pascalValues = new double[iterationNumber, iterationNumber];
@@ -23,7 +23,7 @@ namespace PascalServer.Services
                         continue;
                     }
 
-                    pascalValues[i, j] = pascalValues[i - 1, j - 1] + pascalValues[i - 1, j];
+                    pascalValues[i, j] = (pascalValues[i - 1, j - 1] + pascalValues[i - 1, j])%modulo;
                 }
             }
 

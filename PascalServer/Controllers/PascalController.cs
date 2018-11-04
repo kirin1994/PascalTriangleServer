@@ -16,7 +16,7 @@ namespace PascalServer.Controllers
                 return BadRequest(ModelState);
             }
 
-            var pascalTriangle = PascalService.CalculatePascalTriangle(calculateParameters.NumberOfIterations);
+            var pascalTriangle = PascalService.CalculatePascalTriangle(calculateParameters.NumberOfIterations, calculateParameters.Modulo);
 
             var pascalTriangleObject = new PascalJson(pascalTriangle, calculateParameters.NumberOfIterations, calculateParameters.Modulo);
 

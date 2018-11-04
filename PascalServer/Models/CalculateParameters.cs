@@ -10,7 +10,7 @@ namespace PascalServer.Models
     {
         [Required]
         [Range(1, 10)]
-        public int Modulo { get; set; }
+        public double Modulo { get; set; }
         [Required]
         [Range(1, 75)]
         public int NumberOfIterations { get; set; }
